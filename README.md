@@ -1,1 +1,1 @@
-![Code Stats1](https://www.destroydevs.ru/api/image)
+![Code Stats1](https://destroydevs.ru/api/image)
