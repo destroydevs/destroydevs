@@ -13,8 +13,8 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
 
-    - name: Create images directory
-      run: mkdir -p images
+    - name: Remove old image
+      run: rm -f images/stats.png
 
     - name: Download image
       run: |
