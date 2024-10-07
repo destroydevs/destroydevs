@@ -2,7 +2,7 @@ name: Update Image
 
 on:
   schedule:
-    - cron: '* * * * *' 
+    - cron: '* * * * *'  
   workflow_dispatch:  
 
 jobs:
@@ -20,10 +20,23 @@ jobs:
       run: |
         curl -o images/stats.png https://www.destroydevs.ru/api/stats
 
+    - name: Check if image was downloaded
+      run: |
+        if [ -f images/stats.png ]; then
+          echo "Image downloaded successfully"
+        else
+          echo "Image download failed"
+          exit 1
+        fi
+
     - name: Commit changes
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         git add images/stats.png
-        git commit -m "Update stats image"
-        git push
+        if git diff-index --quiet HEAD --; then
+          echo "No changes to commit"
+        else
+          git commit -m "Update stats image"
+          git push
+        fi
