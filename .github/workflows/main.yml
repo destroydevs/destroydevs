@@ -2,8 +2,8 @@ name: Update Image
 
 on:
   schedule:
-    - cron: '0 * * * *'  
-  workflow_dispatch: 
+    - cron: '0 * * * *' 
+  workflow_dispatch:  
 
 jobs:
   update-image:
@@ -12,6 +12,9 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v2
+
+    - name: Create images directory
+      run: mkdir -p images
 
     - name: Download image
       run: |
