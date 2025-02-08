@@ -10,9 +10,6 @@ I enjoy developing plugins for Minecraft and working on various backend projects
 <a href="https://github.com/destroydevs/">
   <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=byteswing&layout=compact&langs_count=6&theme=radical&card_width=240" />
 </a>
-<a href="https://github.com/destroydevs/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=destroydevs&show_icons=true&theme=radical&card_width=320" />
-</a>
 
 ### Frameworks:
 - ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white),
@@ -23,3 +20,7 @@ I enjoy developing plugins for Minecraft and working on various backend projects
 - ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white),
 - ![H2](https://img.shields.io/badge/H2-000000?style=flat-square&logo=codecrafters&logoColor=white),
 - ![NMS](https://img.shields.io/badge/NMS-14A800?style=flat-square&logo=codecrafters&logoColor=white), and more...
+
+<a href="https://github.com/destroydevs/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=destroydevs&show_icons=true&theme=radical&card_width=320" />
+</a>
