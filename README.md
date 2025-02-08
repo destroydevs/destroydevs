@@ -3,7 +3,7 @@
 I enjoy developing plugins for Minecraft and working on various backend projects.
 
 ### Technologies I have worked with:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=destroydevs&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=destroydevs&layout=compact&theme=dark) 
 
 - ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white),
 - ![Bukkit API](https://img.shields.io/badge/Bukkit%20API-E9A900?style=flat-square&logo=codecrafters&logoColor=white),
