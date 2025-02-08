@@ -2,9 +2,19 @@
 
 I enjoy developing plugins for Minecraft and working on various backend projects.
 
-### Technologies I have worked with:
-![Top LangS](https://github-readme-stats.vercel.app/api/top-langs/?username=destroydevs&layout=compact&theme=dark) 
+### My Stats:
 
+<a href="https://github.com/destroydevs/">
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=destroydevs&layout=compact&langs_count=6&theme=radical&card_width=320" />
+</a>
+<a href="https://github.com/destroydevs/">
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=byteswing&layout=compact&langs_count=6&theme=radical&card_width=320" />
+</a>
+<a href="https://github.com/destroydevs/">
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api?username=destroydevs&show_icons=true&theme=radical&card_width=320" />
+</a>
+
+### Frameworks:
 - ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white),
 - ![Bukkit API](https://img.shields.io/badge/Bukkit%20API-E9A900?style=flat-square&logo=codecrafters&logoColor=white),
 - ![Gson](https://img.shields.io/badge/Gson-D80000?style=flat-square&logo=google&logoColor=white),
@@ -13,5 +23,3 @@ I enjoy developing plugins for Minecraft and working on various backend projects
 - ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white),
 - ![H2](https://img.shields.io/badge/H2-000000?style=flat-square&logo=codecrafters&logoColor=white),
 - ![NMS](https://img.shields.io/badge/NMS-14A800?style=flat-square&logo=codecrafters&logoColor=white), and more...
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=destroydevs&show_icons=true&theme=dark)
