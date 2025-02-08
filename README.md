@@ -5,10 +5,10 @@ I enjoy developing plugins for Minecraft and working on various backend projects
 ### My Stats:
 
 <a href="https://github.com/destroydevs/">
-  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=destroydevs&layout=compact&langs_count=6&theme=radical&card_width=240" />
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=destroydevs&layout=compact&cache_seconds=21600&langs_count=6&theme=radical&card_width=240" />
 </a>
 <a href="https://github.com/destroydevs/">
-  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=byteswing&layout=compact&langs_count=6&theme=radical&card_width=240" />
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=byteswing&layout=compact&cache_seconds=21600&langs_count=6&theme=radical&card_width=240" />
 </a>
 
 ### Frameworks:
@@ -22,5 +22,5 @@ I enjoy developing plugins for Minecraft and working on various backend projects
 - ![NMS](https://img.shields.io/badge/NMS-14A800?style=flat-square&logo=codecrafters&logoColor=white), and more...
 
 <a href="https://github.com/destroydevs/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=destroydevs&show_icons=true&theme=radical&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=destroydevs&cache_seconds=21600&show_icons=true&theme=radical&card_width=320" />
 </a>
