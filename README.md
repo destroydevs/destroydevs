@@ -5,13 +5,13 @@ I enjoy developing plugins for Minecraft and working on various backend projects
 ### My Stats:
 
 <a href="https://github.com/destroydevs/">
-  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=destroydevs&layout=compact&langs_count=6&theme=radical&card_width=320" />
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=destroydevs&layout=compact&langs_count=6&theme=radical&card_width=240" />
 </a>
 <a href="https://github.com/destroydevs/">
-  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=byteswing&layout=compact&langs_count=6&theme=radical&card_width=320" />
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=byteswing&layout=compact&langs_count=6&theme=radical&card_width=240" />
 </a>
 <a href="https://github.com/destroydevs/">
-  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api?username=destroydevs&show_icons=true&theme=radical&card_width=320" />
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api?username=destroydevs&show_icons=true&theme=radical&card_width=240" />
 </a>
 
 ### Frameworks:
