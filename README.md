@@ -1,6 +1,8 @@
 # 💫 About Me:
 I'm a Java Developer with about 4 years of experience.<br>I enjoy developing plugins for Minecraft and working on various backend projects.
 
+## ⏳ Current Projects:
+- [Reptide](https://github.com/reptide-vpn) (2025–present) - Open-source multi-hop VPN
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/byteswing) [![Telegram](https://img.shields.io/badge/Telegram-%230db7ed.svg?logo=telegram&logoColor=white)](https://t.me/byteswing) 
